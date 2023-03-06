@@ -1,0 +1,6 @@
+# Openbifrost Heimdall
+
+Heimdall is the software that acts as a firewall service on openbifrost deployments
+
+* Firewall functions provided by nftables
+* DNS Filtering provided by FTLDNS (pi-hole)
